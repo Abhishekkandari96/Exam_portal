@@ -36,7 +36,7 @@ I'm a full stack developer...
 
 ## Screenshots
 
-This is the initial View
+
 
 
 ![Application Screenshot ](https://github.com/Abhishekkandari96/Exam_portal/blob/master/SS%20for%20post%20Project.jpg)
